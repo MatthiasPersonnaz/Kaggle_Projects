@@ -1,0 +1,2 @@
+model_checkpoint_path: "autoencoder_bin_vec5bits.ckpt"
+all_model_checkpoint_paths: "autoencoder_bin_vec5bits.ckpt"
